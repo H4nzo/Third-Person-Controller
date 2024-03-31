@@ -1,0 +1,34 @@
+# ===============
+# Unity Generated
+# ===============
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Bb]uild/
+*.pdb.meta
+*.pidb.meta
+sysinfo.txt
+
+# =============
+# IDE Generated
+# =============
+/[Ee]xported[Oo]bj/
+/.*/
+/_*/
+/*.csproj
+/*.leu
+/*.unityproj
+/*.sln
+/*.suo
+/*.tmp
+/*.user
+/*.userprefs
+/*.booproj
+/*.svd
+/*.opendb
+/*.VC.db
+*.pdb
+*.pidb
+
+
